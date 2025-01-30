@@ -1,1 +1,2 @@
 Projet Outline: Machine Learning
+Added initial project goals and scope
